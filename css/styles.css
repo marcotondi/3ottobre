@@ -10,6 +10,7 @@ h1{
   font-weight: 100;
   font-size: 40px;
   margin: 40px 0px 20px;
+  font-family: 'Comfortaa', cursive;
 }
 
 #clockdiv{
@@ -38,4 +39,5 @@ h1{
 .smalltext{
 	padding-top: 5px;
 	font-size: 16px;
+	font-family: 'Comfortaa', cursive;
 }
