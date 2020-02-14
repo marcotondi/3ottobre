@@ -8,34 +8,117 @@
 
   <title>3 ottobre</title>
 
-  <link rel="icon" href="favicon.ico" type="image/png" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css">
+  <link rel="stylesheet" href="css/styles.css">
 
   <link href="https://fonts.googleapis.com/css?family=Comfortaa&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/styles.css">
+
+  <!-- AddEvent script -->
+  <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
+
+  <link rel="icon" href="favicon.ico" type="image/png" />
 </head>
 
 <body>
-  <main>
-    <h1>#savethedate</h1>
-    <div id="clockdiv">
-      <div>
-        <span class="days"></span>
-        <div class="smalltext">Days</div>
+
+  <section class="section">
+
+    <!--<section class="hero is-bold">
+      <div class="hero-body">
+        <div class="container">
+          <h1 class="title is-size-1-desktop is-size-2-touch">
+            <span class="background_color">#savethedate</span>
+          </h1>
+        </div>
       </div>
-      <div>
-        <span class="hours"></span>
-        <div class="smalltext">Hours</div>
+
+    </section> -->
+
+    <!-- Main container -->
+    <div class="level container">
+      <!-- Left side -->
+      <div class="level-left">
+        <div class="level-item">
+          <h1 class="title is-size-1-desktop is-size-2-touch">
+            <span class="background_color">#savethedate</span>
+          </h1>
+        </div>
       </div>
-      <div>
-        <span class="minutes"></span>
-        <div class="smalltext">Minutes</div>
-      </div>
-      <div>
-        <span class="seconds"></span>
-        <div class="smalltext">Seconds</div>
+
+      <!-- Right side -->
+      <div class="level-right">
+        <div class="level-item">
+          <figure class="image is-96x96">
+            <img class="is-rounded" src="./image/marco.jpg">
+          </figure>
+        </div>
+        <div class="level-item">
+          <figure class="image is-96x96">
+            <img class="is-rounded" src="./image/melania.png">
+          </figure>
+        </div>
       </div>
     </div>
-  </main>
+
+    <div class="container">
+      <div id="clockdiv" class="tile is-ancestor">
+        <div class="tile is-parent is-3">
+          <article class="tile is-child box notification has-text-centered is-danger ">
+            <div class="box has-background-warning">
+              <p class="title days"></p>
+              <p class="subtitle is-size-5 is-size-6-touch">Days</p>
+            </div>
+          </article>
+        </div>
+        <div class="tile is-parent is-3">
+          <article class="tile is-child box notification has-text-centered is-danger">
+            <div class="box has-background-warning">
+              <p class="title hours"></p>
+              <p class="subtitle is-size-5 is-size-6-touch">Hours</p>
+            </div>
+          </article>
+        </div>
+        <div class="tile is-parent is-3">
+          <article class="tile is-child box notification is-danger has-text-centered">
+            <div class="box has-background-warning">
+              <p class="title minutes"></p>
+              <p class="subtitle is-size-5 is-size-6-touch">Minutes</p>
+            </div>
+          </article>
+        </div>
+        <div class="tile is-parent is-3">
+          <article class="tile is-child box notification is-danger has-text-centered">
+            <div class="box has-background-warning">
+              <p class="title seconds"></p>
+              <p class="subtitle is-size-5 is-size-6-touch">Seconds</p>
+            </div>
+          </article>
+        </div>
+      </div>
+
+      <div class="tile is-ancestor">
+
+        <div class="tile is-parent is-2">
+          <div class="">
+            <!-- Button code -->
+            <div title="Add to Calendar" class="addeventatc is-size-6 is-size-7-touch">
+              Add to Calendar
+              <span class="start">10/03/2020 10:30 AM</span>
+              <span class="end">10/03/2020 12:30 PM</span>
+              <span class="timezone">Rome/Italy</span>
+              <span class="title">Marco & Melania</span>
+              <span class="description">http://3ottobre.it</span>
+              <span class="location">Largo Castello, 26, 73010 Lequile LE</span>
+            </div>
+            <!-- Button code -->
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+  </section>
+
   <script type="text/javascript" src="js/script.js"></script>
 </body>
 
