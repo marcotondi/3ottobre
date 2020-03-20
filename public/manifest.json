@@ -1,0 +1,23 @@
+{
+  "short_name": "3ottobre.it",
+  "name": "3ottobre.it",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "src/image/marco.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "src/image/melania.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone"
+}

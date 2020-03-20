@@ -15,6 +15,10 @@ html {
   background-size:100px 100px;
 }
 
+body {
+  font-family: 'Comfortaa', cursive;
+}
+
 .title, .subtitle{
 	font-family: 'Comfortaa', cursive;
 	color: hsl(48, 100%, 67%);
