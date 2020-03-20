@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/3ottobre.it/static/css/main.a2033702.chunk.css",
-    "main.js": "/3ottobre.it/static/js/main.55a070bb.chunk.js",
-    "main.js.map": "/3ottobre.it/static/js/main.55a070bb.chunk.js.map",
-    "runtime-main.js": "/3ottobre.it/static/js/runtime-main.f8c5fa8c.js",
-    "runtime-main.js.map": "/3ottobre.it/static/js/runtime-main.f8c5fa8c.js.map",
-    "static/js/2.31f0b9ee.chunk.js": "/3ottobre.it/static/js/2.31f0b9ee.chunk.js",
-    "static/js/2.31f0b9ee.chunk.js.map": "/3ottobre.it/static/js/2.31f0b9ee.chunk.js.map",
-    "index.html": "/3ottobre.it/index.html",
-    "precache-manifest.4d9fe8f227c16e6e84d80a30a23219af.js": "/3ottobre.it/precache-manifest.4d9fe8f227c16e6e84d80a30a23219af.js",
-    "service-worker.js": "/3ottobre.it/service-worker.js",
-    "static/css/main.a2033702.chunk.css.map": "/3ottobre.it/static/css/main.a2033702.chunk.css.map",
-    "static/js/2.31f0b9ee.chunk.js.LICENSE.txt": "/3ottobre.it/static/js/2.31f0b9ee.chunk.js.LICENSE.txt",
-    "static/media/marco.png": "/3ottobre.it/static/media/marco.c71ccbdb.png",
-    "static/media/melania.png": "/3ottobre.it/static/media/melania.5a681849.png"
+    "main.css": "/3ottobre/static/css/main.a2033702.chunk.css",
+    "main.js": "/3ottobre/static/js/main.a8269321.chunk.js",
+    "main.js.map": "/3ottobre/static/js/main.a8269321.chunk.js.map",
+    "runtime-main.js": "/3ottobre/static/js/runtime-main.f51c279f.js",
+    "runtime-main.js.map": "/3ottobre/static/js/runtime-main.f51c279f.js.map",
+    "static/js/2.31f0b9ee.chunk.js": "/3ottobre/static/js/2.31f0b9ee.chunk.js",
+    "static/js/2.31f0b9ee.chunk.js.map": "/3ottobre/static/js/2.31f0b9ee.chunk.js.map",
+    "index.html": "/3ottobre/index.html",
+    "precache-manifest.984de1c4f747b4dd12ba2df6501b52ce.js": "/3ottobre/precache-manifest.984de1c4f747b4dd12ba2df6501b52ce.js",
+    "service-worker.js": "/3ottobre/service-worker.js",
+    "static/css/main.a2033702.chunk.css.map": "/3ottobre/static/css/main.a2033702.chunk.css.map",
+    "static/js/2.31f0b9ee.chunk.js.LICENSE.txt": "/3ottobre/static/js/2.31f0b9ee.chunk.js.LICENSE.txt",
+    "static/media/marco.png": "/3ottobre/static/media/marco.c71ccbdb.png",
+    "static/media/melania.png": "/3ottobre/static/media/melania.5a681849.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f8c5fa8c.js",
+    "static/js/runtime-main.f51c279f.js",
     "static/js/2.31f0b9ee.chunk.js",
     "static/css/main.a2033702.chunk.css",
-    "static/js/main.55a070bb.chunk.js"
+    "static/js/main.a8269321.chunk.js"
   ]
 }
