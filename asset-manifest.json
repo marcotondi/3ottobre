@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.a2033702.chunk.css",
-    "main.js": "/static/js/main.9f722052.chunk.js",
-    "main.js.map": "/static/js/main.9f722052.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.637e9360.js",
-    "runtime-main.js.map": "/static/js/runtime-main.637e9360.js.map",
-    "static/js/2.31f0b9ee.chunk.js": "/static/js/2.31f0b9ee.chunk.js",
-    "static/js/2.31f0b9ee.chunk.js.map": "/static/js/2.31f0b9ee.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.189eb26ca30c6f279f8901f2afb49f94.js": "/precache-manifest.189eb26ca30c6f279f8901f2afb49f94.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.a2033702.chunk.css.map": "/static/css/main.a2033702.chunk.css.map",
-    "static/js/2.31f0b9ee.chunk.js.LICENSE.txt": "/static/js/2.31f0b9ee.chunk.js.LICENSE.txt",
-    "static/media/marco.png": "/static/media/marco.c71ccbdb.png",
-    "static/media/melania.png": "/static/media/melania.5a681849.png"
+    "main.css": "/3ottobre/static/css/main.a2033702.chunk.css",
+    "main.js": "/3ottobre/static/js/main.a8269321.chunk.js",
+    "main.js.map": "/3ottobre/static/js/main.a8269321.chunk.js.map",
+    "runtime-main.js": "/3ottobre/static/js/runtime-main.f51c279f.js",
+    "runtime-main.js.map": "/3ottobre/static/js/runtime-main.f51c279f.js.map",
+    "static/js/2.31f0b9ee.chunk.js": "/3ottobre/static/js/2.31f0b9ee.chunk.js",
+    "static/js/2.31f0b9ee.chunk.js.map": "/3ottobre/static/js/2.31f0b9ee.chunk.js.map",
+    "index.html": "/3ottobre/index.html",
+    "precache-manifest.984de1c4f747b4dd12ba2df6501b52ce.js": "/3ottobre/precache-manifest.984de1c4f747b4dd12ba2df6501b52ce.js",
+    "service-worker.js": "/3ottobre/service-worker.js",
+    "static/css/main.a2033702.chunk.css.map": "/3ottobre/static/css/main.a2033702.chunk.css.map",
+    "static/js/2.31f0b9ee.chunk.js.LICENSE.txt": "/3ottobre/static/js/2.31f0b9ee.chunk.js.LICENSE.txt",
+    "static/media/marco.png": "/3ottobre/static/media/marco.c71ccbdb.png",
+    "static/media/melania.png": "/3ottobre/static/media/melania.5a681849.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.637e9360.js",
+    "static/js/runtime-main.f51c279f.js",
     "static/js/2.31f0b9ee.chunk.js",
     "static/css/main.a2033702.chunk.css",
-    "static/js/main.9f722052.chunk.js"
+    "static/js/main.a8269321.chunk.js"
   ]
 }
