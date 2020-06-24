@@ -1,6 +1,6 @@
 html {
-	background:
-  radial-gradient(circle closest-side at 60% 43%, hsl(217, 71%, 53%) 26%, rgba(187,0,51,0) 27%),
+  background: rgb(241, 241, 241);
+  /*   radial-gradient(circle closest-side at 60% 43%, hsl(217, 71%, 53%) 26%, rgba(187,0,51,0) 27%),
   radial-gradient(circle closest-side at 40% 43%, hsl(217, 71%, 53%) 26%, rgba(187,0,51,0) 27%),
   radial-gradient(circle closest-side at 40% 22%, hsl(207, 90%, 77%) 45%, rgba(221,51,85,0) 46%),
   radial-gradient(circle closest-side at 60% 22%, hsl(207, 90%, 77%) 45%, rgba(221,51,85,0) 46%),
@@ -12,18 +12,19 @@ html {
   radial-gradient(circle closest-side at 60% 22%, hsl(207, 90%, 77%) 45%, rgba(221,51,85,0) 46%) 50px 50px,
   radial-gradient(circle closest-side at 50% 35%, hsl(207, 90%, 77%) 30%, rgba(221,51,85,0) 31%) 50px 50px;
   background-color:hsl(217, 71%, 53%);
-  background-size:100px 100px;
+  background-size:100px 100px; */
 }
 
 body {
-  font-family: 'Comfortaa', cursive;
+  font-family: "Comfortaa", cursive;
 }
 
-.title, .subtitle{
-	font-family: 'Comfortaa', cursive;
-	color: hsl(48, 100%, 67%);
+.title {
+  font-family: "Comfortaa", cursive;
+  color: hsl(22, 100%, 60%);
 }
 
-.background_color{
-  background-color:hsl(217, 71%, 53%);
+.subtitle {
+  font-family: "Comfortaa", cursive;
+  color: hsla(239, 100%, 37%, 0.589);
 }

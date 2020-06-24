@@ -1,7 +1,7 @@
-import React from 'react';
+import React from "react";
 
-import marco from '../image/marco.png'; // Tell webpack this JS file uses this image
-import melania from '../image/melania.png'; // Tell webpack this JS file uses this image
+import marco from "../image/marco.png"; // Tell webpack this JS file uses this image
+import melania from "../image/melania.png"; // Tell webpack this JS file uses this image
 
 class Header extends React.Component {
   render() {
@@ -10,9 +10,12 @@ class Header extends React.Component {
         <div className="level container">
           <div className="level-left">
             <div className="level-item">
-              <h1 className="title is-size-1-desktop is-size-2-touch">
-                <span className="background_color">#savethedate</span>
-              </h1>
+              <p className="title is-size-1-desktop is-size-4-mobile">
+                <span>#postponed</span>
+              </p>
+              <p className="subtitle is-size-5-desktop is-size-6-mobile">
+                <p> for COVID-19</p>
+              </p>
             </div>
           </div>
           <div className="level-right">
