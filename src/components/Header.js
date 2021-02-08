@@ -11,11 +11,11 @@ class Header extends React.Component {
           <div className="level-left">
             <div className="level-item">
               <p className="title is-size-1-desktop is-size-4-mobile">
-                <span>#postponed</span>
+                <span>#savethedate</span>
               </p>
-              <p className="subtitle is-size-5-desktop is-size-6-mobile">
+              {/* <p className="subtitle is-size-5-desktop is-size-6-mobile">
                 <p> for COVID-19</p>
-              </p>
+              </p> */}
             </div>
           </div>
           <div className="level-right">

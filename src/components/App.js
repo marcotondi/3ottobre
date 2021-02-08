@@ -7,12 +7,12 @@ class App extends React.Component {
   constructor(props) {
     super(props);
 
-    const deadline = {}; //new Date(2020, 9, 3, 10, 30, 0, 0);
-    //let time = Date.parse(deadline) - Date.parse(new Date());
+    const deadline = new Date(2021, 8, 17, 10, 30, 0, 0);
+    let time = Date.parse(deadline) - Date.parse(new Date());
 
     this.state = {
       deadline: deadline,
-      show: true, //time >= 0,
+      show: time >= 0,
     };
   }
 
